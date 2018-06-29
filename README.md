@@ -1,5 +1,3 @@
-# Test
+# Singularity on James Cook University HPC
 
-This is a test repository.
-
-Changed here.
+This repository is simply for tracking progress to enable singularity containers on JCU's updated RHEL7 cluster (previously Zodiac).
